@@ -7,9 +7,9 @@ export default function Home() {
         <ImagePerfil />
       </div>
       <div>
-        <p><span id="wave">👋</span> Olá, meu nome é</p>
+        <p><span>✌🏼</span> Olá, meu nome é</p>
           <h1 id="introName">Lucas Fernandes</h1>
-          <p>Eu sou um desenvolvedor de software em Brasília, DF e crio conteúdo para internet sou amante do <a id="code" href="https://github.com/lucasopagodev" target="_blank">código</a>.</p>
+          <p>Eu sou um desenvolvedor de software em Brasília, DF. Crio conteúdo para internet e sou amante de <a id="code" href="https://github.com/lucasopagodev" target="_blank">código</a>.</p>
       </div>
     </div>
   );

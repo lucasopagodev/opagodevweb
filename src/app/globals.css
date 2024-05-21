@@ -2,6 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
+* {
+  -webkit-font-smoothing: antialiased;
+}
+
 body {
   color: rgb(var(--foreground-rgb));
   background: linear-gradient(
