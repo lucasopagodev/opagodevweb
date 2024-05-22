@@ -18,10 +18,6 @@ body {
   background: '#f2f5f7';
 }
 
-#code {
-    color: darkseagreen;
-}
-
 #wave {
   margin-right: 0.25rem;
   display: inline-flex;

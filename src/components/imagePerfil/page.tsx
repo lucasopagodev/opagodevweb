@@ -7,7 +7,7 @@ export default function ImagePerfil() {
 				src="/opagodev.jpg"
 				width={150}
 				height={150}
-				className='rounded-full'
+				className='rounded-full h-full w-full object-cover object-center'
 				alt="Sreenshots of the dashboard project showing desktop version"
 			/>
 		</div>
