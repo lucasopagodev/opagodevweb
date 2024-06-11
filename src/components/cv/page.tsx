@@ -20,7 +20,7 @@ const experience = [
     local: "Freelance",
     time: "Abril de 2020 - Janeiro de 2022 · 1 ano 10 meses",
     description:
-      "Desenvolvimento nos sites em wordpress, landing-pages e e-commerce - www.pnse.com.br, www.atoscoaching.com, www.glamourseguros.com, www.lojahillsonline.com, www.jukalume.com.br, www.ccodontologicosamambaia.com.br, www.agenciaquintavenida.com.br.",
+      "Desenvolvimento nos sites em wordpress, landing-pages e e-commerce - pnse.com.br, atoscoaching.com, glamourseguros.com, lojahillsonline.com, jukalume.com.br, ccodontologicosamambaia.com.br, agenciaquintavenida.com.br.",
   },
   {
     id: 3,
