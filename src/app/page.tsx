@@ -1,4 +1,4 @@
-import ImagePerfil from "@/components/imagePerfil/page"
+import Cv from "@/components/cv/page";
 import Intro from "@/components/intro/page";
 import Projects from "@/components/projects/page";
 
@@ -11,6 +11,9 @@ export default function Home() {
         </div>
         <div>
           <Projects />
+        </div>
+        <div>
+          <Cv />
         </div>
       </div>
     </>
