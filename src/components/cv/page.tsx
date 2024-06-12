@@ -28,7 +28,7 @@ const experience = [
     local: "Êxito IT",
     time: "Maio de 2021 - Outubro de 2021 · 6 meses",
     description:
-      "• Versionamento de código com Azure Devops • Deploy de sistemas internos. • Monitoraramento de desempenho das aplicações desenvolvidas internamente. • Efetuar o desenvolvimento e cuidar da manutenção, programas nas linguagens C#, ASP.NET MVC, ASP.NET Web API, ASP.NET WebForms, ASP Clássico, PHP, Javascript, JQuery, JSON, CSS, HTML, Bootstrap, XML e frameworks, webservices e relatórios, utilizando padrões técnicos apropriados. • Microsoft Report Viewer, Crystal Reports. • Realizar teste funcional dos módulos de toda a programação, a fim de identificar erros e falhas na programação e arquitetura dos sistemas e aplicações. •Monitoramento dos ambientes de aplicação e banco de dados na AWS (EC2 e RDS)",
+      "• Monitoramento dos ambientes de aplicação e banco de dados na AWS (EC2 e RDS) • Versionamento de código com Azure e Deploy de sistemas internos. • Monitoraramento de desempenho das aplicações desenvolvidas internamente. • Efetuar o desenvolvimento e cuidar da manutenção, programas nas linguagens C#, ASP.NET MVC, ASP.NET Web API, ASP.NET WebForms, ASP Clássico, PHP, Javascript.",
   },
   {
     id: 2,
@@ -36,7 +36,7 @@ const experience = [
     local: "Apex-Brasil",
     time: "Agosto de 2020 - Abril de 2021 · 9 meses",
     description:
-      "All of the pages and components are first designed in Figma and we keep a parity between the two versions even as we update the project.",
+      "Desenvolvimento de sistemas internos, utilizando PHP e ferramentas da Microsoft (Power Apps, Power BI, Power Automate, Share Point, Access)",
   },
   {
     id: 1,
@@ -44,7 +44,7 @@ const experience = [
     local: "Lider Centro Automotivo",
     time: "Dezembro de 2017 - Julho de 2020 · 2 anos 8 meses",
     description:
-      "Get started with dozens of web components and interactive elements built on top of Tailwind CSS.",
+      "Empresa familiar, onde atuei como vendedor.",
   },
 ];
 
@@ -66,7 +66,9 @@ export default function Cv() {
               <h3 className="text-lg font-semibold text-gray-900">
                 Desenvolvedor Full-Stack - Hepta Tecnologia e Informática
               </h3>
-              <p className="mb-4 text-base font-normal text-gray-500 "></p>
+              <p className="mb-4 text-base font-normal text-gray-500 ">
+              • Manutenção do sistemas presentes na Polícia Civil do Distrito Federal - PCDF • Atuei bastante desenvolvendo uma nova solução onde o foco era realizar o reconhecimento facial de uma imagem, onde vetorizada realizava uma busca no ElasticSearch e por melhor acurácia retornava os registros. • Versionamento de código com Azure Devops, TFS, Deploy de sistemas internos, Realizar arquitetura dos sistemas e aplicações. • Monitoraramento de desempenho das aplicações desenvolvidas internamente. • Efetuar o desenvolvimento e cuidar da manutenção de programas nas linguagens C#, ASP.NET MVC, ASP.NET Web API, ASP.NET WebForms, Javascript, ASP Classic. • Configuração, atualização e manutenção de aplicativos mobile (Play Store e Apple Store)
+              </p>
             </li>
 
             {experience.map((exp) => (
