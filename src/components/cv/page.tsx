@@ -50,7 +50,7 @@ const experience = [
 
 export default function Cv() {
   return (
-    <div className="flex-auto">
+    <div id="cv" className="flex-auto">
       <div className="mx-auto max-w-7xl px-2 sm:px-3 lg:px-4">
         <div className="mx-auto max-w-2xl py-4 sm:py-6 lg:max-w-none lg:py-4">
           <h2 className="my-6 text-2xl font-bold text-gray-900">💼 Meu XP</h2>

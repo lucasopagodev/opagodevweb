@@ -11,7 +11,7 @@ export default function Intro() {
           <span>✌🏼</span> Olá, meu nome é
         </p>
         <h1 id="introName">Lucas Fernandes</h1>
-        <p>Eu sou um desenvolvedor de software em Brasília, DF.</p>
+        <p>Sou desenvolvedor de software em Brasília, DF.</p>
         <p>
           Crio conteúdo para internet e sou amante de{" "}
           <a

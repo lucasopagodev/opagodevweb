@@ -23,6 +23,11 @@ export default function Header() {
             Instagram
           </a>
         </p>
+        <p>
+          <a href="#cv">
+            CV
+          </a>
+        </p>
       </div>
     </header>
   );

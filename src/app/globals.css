@@ -12,6 +12,9 @@
   --background-end-rgb: 128, 128, 128; /* Cinza */
 }
 
+html {
+  scroll-behavior: smooth;
+}
 
 body {
   color: '#2c2c2c';
