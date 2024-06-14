@@ -5,12 +5,12 @@ export default function Header() {
         id="header"
         className="flex flex-row justify-end sm:justify-center md:justify-end space-x-4"
       >
-        <p>
+        <p className="hover:underline hover:decoration-green-900">
           <a href="https://www.youtube.com/@opagodev" target="_blank">
             Youtube
           </a>
         </p>
-        <p>
+        <p className="hover:underline hover:decoration-green-900">
           <a
             href="https://www.linkedin.com/in/lucas-fernandes-lopes/"
             target="_blank"
@@ -18,12 +18,12 @@ export default function Header() {
             Linkedin
           </a>
         </p>
-        <p>
+        <p className="hover:underline hover:decoration-green-900">
           <a href="https://www.instagram.com/opagodev/" target="_blank">
             Instagram
           </a>
         </p>
-        <p>
+        <p className="hover:underline hover:decoration-green-900">
           <a href="#cv">
             CV
           </a>

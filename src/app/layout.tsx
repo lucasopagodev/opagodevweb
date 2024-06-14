@@ -3,6 +3,7 @@ import { Montserrat } from "next/font/google";
 import "./globals.css";
 import Header from "@/components/header/page";
 import Script from "next/script";
+import Footer from "@/components/footer/page";
 
 const montserrat = Montserrat({ 
   subsets: ["latin"],
@@ -39,6 +40,7 @@ export default function RootLayout({
         <div className="container mx-auto px-16 py-8">
           <Header />
           {children}
+          <Footer />
         </div>
       </body>
     </html>
