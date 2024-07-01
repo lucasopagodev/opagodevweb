@@ -1,6 +1,6 @@
-import Cv from "@/components/cv/page";
-import Intro from "@/components/intro/page";
-import Projects from "@/components/projects/page";
+import Cv from "@/components/cv";
+import Intro from "@/components/intro";
+import Projects from "@/components/projects";
 
 export default function Home() {
   return (

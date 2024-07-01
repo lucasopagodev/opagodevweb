@@ -1,4 +1,4 @@
-import ImagePerfil from "../imagePerfil/page";
+import ImagePerfil from "../imagePerfil";
 
 export default function Intro() {
   return (
@@ -16,7 +16,7 @@ export default function Intro() {
           Crio conteúdo para internet e sou amante de{" "}
           <a
             id="code"
-            className="hover:underline hover:decoration-2 hover:decoration-green-700"
+            className="underline decoration-2 decoration-green-700"
             href="https://github.com/lucasopagodev"
             target="_blank"
           >

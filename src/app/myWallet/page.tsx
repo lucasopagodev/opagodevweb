@@ -1,4 +1,4 @@
-import TitlePage from "@/components/titlePage/page";
+import TitlePage from "@/components/titlePage";
 
 export default function MyWallet() {
 	return (
