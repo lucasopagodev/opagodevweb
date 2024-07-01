@@ -1,4 +1,4 @@
-import ImagePerfil from "../imagePerfil/page";
+import ImagePerfil from "../imagePerfil";
 
 export default function Intro() {
   return (
