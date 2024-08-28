@@ -1,6 +1,7 @@
 import Cv from "@/components/cv/page";
 import Intro from "@/components/intro/page";
 import Projects from "@/components/projects/page";
+import Products from "@/components/products/page";
 
 export default function Home() {
   return (
@@ -8,6 +9,9 @@ export default function Home() {
       <div className="flex flex-col space-y-20">
         <div className="flex items-center justify-center">
           <Intro />
+        </div>
+        <div>
+          <Products />
         </div>
         <div>
           <Projects />

@@ -6,6 +6,11 @@ export default function Header() {
         className="flex flex-row justify-end sm:justify-center md:justify-end space-x-4"
       >
         <p className="hover:underline hover:decoration-green-900">
+          <a href="#products">
+            Produtos
+          </a>
+        </p>
+        <p className="hover:underline hover:decoration-green-900">
           <a href="https://www.youtube.com/@opagodev" target="_blank">
             Youtube
           </a>
