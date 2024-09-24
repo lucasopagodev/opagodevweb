@@ -5,7 +5,7 @@ const products = [
     id: 1,
     name: "Capa de Notebook - Cinza Grafite",
     description: "A melhor capa para proteger seu notebook.",
-    price: '139,90',
+    price: '149,90',
     tag: 'Capa',
     imageSrc: "/ProductsImages/CapaNotebookOpagodevGrafite.png",
     imageAlt:
@@ -16,7 +16,7 @@ const products = [
     id: 2,
     name: "Capa de Notebook - Cinza Claro",
     description: "A melhor capa para proteger seu notebook.",
-    price: '139,90',
+    price: '149,90',
     tag: 'Capa',
     imageSrc: "/ProductsImages/CapaNotebookOpagodevCinza.png",
     imageAlt:
