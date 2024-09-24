@@ -10,7 +10,7 @@ const products = [
     imageSrc: "/ProductsImages/CapaNotebookOpagodevGrafite.png",
     imageAlt:
       "Uma capa de notebook preta com espuma e muita qualidade para proteger seu trabalho da cor cinza grafite.",
-    href: "https://forms.gle/BCdvGzD8mgt54ToS7",
+    href: "https://produto.mercadolivre.com.br/MLB-5070576038-capa-para-notebook-macbook-e-outros-clean-_JM?attributes=COLOR_SECONDARY_COLOR%3AQ2luemEtZXNjdXJv&quantity=1",
   },
   {
     id: 2,
@@ -21,7 +21,7 @@ const products = [
     imageSrc: "/ProductsImages/CapaNotebookOpagodevCinza.png",
     imageAlt:
       "Uma capa de notebook preta com espuma e muita qualidade para proteger seu trabalho da cor cinza grafite.",
-    href: "https://forms.gle/BCdvGzD8mgt54ToS7",
+    href: "https://produto.mercadolivre.com.br/MLB-5070576038-capa-para-notebook-macbook-e-outros-clean-_JM?attributes=COLOR_SECONDARY_COLOR%3AQ2luemE%3D&quantity=1",
   },
 ];
 
