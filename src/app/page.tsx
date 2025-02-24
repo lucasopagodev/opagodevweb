@@ -2,6 +2,7 @@ import Cv from "@/components/cv/page";
 import Intro from "@/components/intro/page";
 import Projects from "@/components/projects/page";
 import Products from "@/components/products/page";
+import Youtube from "@/components/youtube/page";
 
 export default function Home() {
   return (
@@ -18,6 +19,9 @@ export default function Home() {
         </div>
         <div>
           <Cv />
+        </div>
+        <div>
+          <Youtube />
         </div>
       </div>
     </>
