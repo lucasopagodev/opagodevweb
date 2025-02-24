@@ -15,13 +15,13 @@ export default function Home() {
           <Products />
         </div>
         <div>
+          <Youtube />
+        </div>
+        <div>
           <Projects />
         </div>
         <div>
           <Cv />
-        </div>
-        <div>
-          <Youtube />
         </div>
       </div>
     </>
