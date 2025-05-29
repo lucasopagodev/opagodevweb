@@ -11,7 +11,7 @@ const callouts = [
   {
     name: "Gerador de Grupos",
     description: "Ferramenta para gerar grupos sortidos",
-    imageSrc: "/ProjectsImages/PersonGroup.png",
+    imageSrc: "/ProjectsImages/GeradorDeGrupos.png",
     imageAlt:
       "Thumb do projeto Grupo de pessoa, imagem contém muitas pessoas com alguns detalhes em verde.",
     href: "https://lucasopagodev.github.io/gerador-de-grupos/",
@@ -23,6 +23,14 @@ const callouts = [
     imageAlt:
       "Wood table with porcelain mug, leather journal, brass pen, leather key ring, and a houseplant.",
     href: "https://github.com/lucasopagodev/clone-Nubank",
+  },
+  {
+    name: "Gerador de Folha de Ponto",
+    description: "Gerador de horários para uma folha de ponto",
+    imageSrc: "/ProjectsImages/GeradorFolhaPonto.png",
+    imageAlt:
+      "Wood table with porcelain mug, leather journal, brass pen, leather key ring, and a houseplant.",
+    href: "https://timesheet-app-tau.vercel.app/",
   },
 ];
 
