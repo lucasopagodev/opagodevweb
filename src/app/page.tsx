@@ -12,9 +12,6 @@ export default function Home() {
           <Intro />
         </div>
         <div>
-          <Products />
-        </div>
-        <div>
           <Youtube />
         </div>
         <div>

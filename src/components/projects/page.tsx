@@ -17,6 +17,15 @@ const callouts = [
     href: "https://lucasopagodev.github.io/gerador-de-grupos/",
   },
   {
+    name: "Gerador de Grupos V2",
+    description:
+      "Ferramenta para gerar grupos sortidos só que agora na sua versão 2.",
+    imageSrc: "/ProjectsImages/PersonGroup.png",
+    imageAlt:
+      "Thumb do projeto Grupo de pessoa, imagem contém muitas pessoas com alguns detalhes em verde.",
+    href: "https://gerador-de-grupos-v2.vercel.app/",
+  },
+  {
     name: "NuBank [Clone]",
     description: "Clone da interface do NuBank",
     imageSrc: "/ProjectsImages/CloneNuBank.png",
